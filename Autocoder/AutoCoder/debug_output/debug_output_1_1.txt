@@ -1,0 +1,4 @@
+  File "F:\AutoCoder\AutoCoder\output_scripts\output_1.py", line 39
+    ```
+    ^
+SyntaxError: invalid syntax

@@ -1,0 +1,8 @@
+Argument received: --epochs
+Argument received: 1
+Argument received: --batch-size
+Argument received: 10
+Argument received: --output-dir
+Argument received: F:\Autocoder\GAN_outputs
+Argument received: --gpu
+Argument received: --quiet-mode

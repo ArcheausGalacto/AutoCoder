@@ -1,0 +1,1 @@
+Make a GAN which generates handwriting. Utilize GPU. Save the outputs to F:\Autocoder\GAN_outputs. Make it so that minimal information is printed to the console so you don't consume your context limit.

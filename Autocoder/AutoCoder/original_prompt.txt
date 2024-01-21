@@ -1,0 +1,1 @@
+Create an algorithm which takes a dataset of flowers from a Tf_flowers import, then, create a GAN which is able to generate new tabular data that fits the format. The output to the console should be the fake data for the generated GAN flower.

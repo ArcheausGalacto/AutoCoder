@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "F:\AutoCoder\AutoCoder\output_scripts\output_2.py", line 71, in <module>
+    dataset = load_flower_dataset()
+  File "F:\AutoCoder\AutoCoder\output_scripts\output_2.py", line 14, in load_flower_dataset
+    dataset = tf.keras.preprocessing.image_dataset_from_directory(
+  File "C:\Users\Danie\AppData\Local\Programs\Python\Python38\lib\site-packages\keras\src\utils\image_dataset.py", line 299, in image_dataset_from_directory
+    raise ValueError(
+ValueError: No images found in directory path/to/flowers_dataset. Allowed formats: ('.bmp', '.gif', '.jpeg', '.jpg', '.png')
