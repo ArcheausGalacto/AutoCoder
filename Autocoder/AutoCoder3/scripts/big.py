@@ -2,7 +2,7 @@ import openai
 import os
 
 def query_gpt4_chat(prompt, model="gpt-4-1106-preview"):
-    with open("F:\\AutoCoder\\AutoCoder2\\api_key.txt", "r") as file:
+    with open("F:\\AutoCoder\\AutoCoder3\\api_key.txt", "r") as file:
         api_key = file.read().strip()
 
     openai.api_key = api_key
