@@ -36,7 +36,7 @@ def main():
     while validation_result.lower() != 'yes':
         user_prompt = read_file("F:\\AutoCoder\\AutoCoder2\\prompt.txt")
 
-        if iteration_count >= 6:
+        if iteration_count >= 2:
             recovery_prompt = input("Enter your feedback: ")
             user_prompt = "Here is the most recent suggestion: " + recovery_prompt + "\n" + user_prompt
 
